@@ -1,0 +1,163 @@
+{
+  "games": [
+    {
+      "id": "d3fd3f68-7233-4ae2-97c3-39b9e4b6a6b7",
+      "gameName": "PadTex",
+      "gameDescription": "Step onto the 3D court, sharpen your instincts, and test your reflexes! A fast paced mix of tennis and paddle action where quick thinking, sharp timing, and lightning-fast reactions make you the champion. 🎾🔥",
+      "gameUrl": "https://mohibdev.itch.io/padtex",
+      "githubUrl": "https://github.com/Muhammad-Mohib/PadTex",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/40b56bef-6ab8-4a0e-8dcc-f5ba5b5d0c85.png",
+      "teamMembers": [
+        "Muhammad M."
+      ],
+      "voteCount": 6
+    },
+    {
+      "id": "008c9984-6984-488d-afcc-d666178263f6",
+      "gameName": "Fruit Bounce",
+      "gameDescription": "Fruit Bounce\nThis is a two-player game where two players control two platforms. Fruits fall from the sky and players have to prevent them from falling on their side.\n\nControls\nPlayer 1: AD to move, W to hit Player 2: ← → to move, ↑ to hit",
+      "gameUrl": "https://shaheer-afaq.itch.io/fruit-bounce",
+      "githubUrl": "https://github.com/Shaheer-Afaq/fruit-bounce",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/8bf9b7bc-8334-43aa-bd37-53b2507df6f5.png",
+      "teamMembers": [
+        "Nyxen K.",
+        "Shaheer A."
+      ],
+      "voteCount": 5
+    },
+    {
+      "id": "31a80fb3-a29a-4fe0-aaf4-429ae57457c3",
+      "gameName": "Pink Man",
+      "gameDescription": "A 2D platformer made in Godot 4. Run, jump, collect apples and avoid the snails. Touch an enemy or fall off the map and the level restarts",
+      "gameUrl": "https://hadiamurad.itch.io/pink-man",
+      "githubUrl": "https://github.com/hadiyamurad/Pink-Man",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/e348e4b7-ba8b-4db4-b5fc-49ae3672ac52.png",
+      "teamMembers": [
+        "Hadia M.",
+        "Zainab H."
+      ],
+      "voteCount": 4
+    },
+    {
+      "id": "bc306f83-21e3-47a9-a560-a120bbcb2498",
+      "gameName": "Badminton",
+      "gameDescription": "A badminton game made in godot engine",
+      "gameUrl": "https://emi-aki.itch.io/badminton",
+      "githubUrl": "https://github.com/eshal28/badminton",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/2314d57a-0a60-4fe1-b55b-b0f2c74a1490.png",
+      "teamMembers": [
+        "Anabia R.",
+        "Aryan A.",
+        "Eshal A."
+      ],
+      "voteCount": 3
+    },
+    {
+      "id": "94b4908d-457b-4181-9dc1-a48f1ea2d707",
+      "gameName": "STARFALL: Shadows of the Last Light",
+      "gameDescription": "It's a five chapter action platformer with three selectable characters, sword combos, dash, sprint, jump, guard, bounce pads, enemies, hazards, checkpoints, difficulty levels, and a final boss. It also has on-screen touch controls for the web version.",
+      "gameUrl": "https://sparks33.itch.io/star-collect",
+      "githubUrl": "https://github.com/Sparks33/Starfall",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/73fe640a-35ca-4b92-a1da-35af8223fecc.png",
+      "teamMembers": [
+        "Hamd U."
+      ],
+      "voteCount": 3
+    },
+    {
+      "id": "b7bb14f4-7800-4e24-b4f0-cfb865020684",
+      "gameName": "bricks ball",
+      "gameDescription": "this game is just for fun ,so don't judge it. To play this game use left and right arrow key to move paddle this is my first time to make a game so please enjoy it as much as you can",
+      "gameUrl": "https://zohair-ahmed-chohan.itch.io/bricks-ball",
+      "githubUrl": "https://github.com/Zohair-ahmed-chohan/Brickgame",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/93504e49-77c6-4e62-a7db-8ee95c5c1c4e.png",
+      "teamMembers": [
+        "Abdul R.",
+        "Mariyam S.",
+        "zohair A."
+      ],
+      "voteCount": 3
+    },
+    {
+      "id": "8678edd7-5520-40a4-abaa-f7237d632fba",
+      "gameName": "firebounce",
+      "gameDescription": "u shoot fireballs with the consequence of facing ur own action",
+      "gameUrl": "https://kn1ghtmere.itch.io/firebounce",
+      "githubUrl": "https://github.com/Kn1ghtmere/Haven_bounce_ships",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/987c0f73-3bad-448b-960e-f57cfd5ddc0f.png",
+      "teamMembers": [
+        "Daniyal D."
+      ],
+      "voteCount": 3
+    },
+    {
+      "id": "38030f49-1a86-4c07-aaeb-e47be1de8201",
+      "gameName": "lead high",
+      "gameDescription": "move left right with arrow keys\npress spacebar to jump\n\ncan you guide the ball to the flag ? :)",
+      "gameUrl": "https://shahwaizabbasrizvi-max.itch.io/leap-high",
+      "githubUrl": "https://github.com/shahwaizabbasrizvi-max/Leap-High",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/15d722e8-9f96-41b0-8fce-3111a0e9a715.png",
+      "teamMembers": [
+        "Asad S.",
+        "Shahwaiz abbas R."
+      ],
+      "voteCount": 3
+    },
+    {
+      "id": "78722133-f4c6-4014-87dc-b71cb2d317ef",
+      "gameName": "Single player pong game",
+      "gameDescription": "Single player pong game made in godot for haven karachi",
+      "gameUrl": "https://subhanali07.itch.io/single-player-pong-game",
+      "githubUrl": "https://github.com/subhanali07/single-player-pong-game",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/2261d2d3-88d4-492a-8a15-8a9d90d7989c.png",
+      "teamMembers": [
+        "subhan ali A."
+      ],
+      "voteCount": 1
+    },
+    {
+      "id": "50d19028-d8d1-4eb3-a636-e812cf522e89",
+      "gameName": "Space Craze",
+      "gameDescription": "Collect all stars to win! Dodge the asteroids and stay in the window!",
+      "gameUrl": "https://umaima-zafar.itch.io/space-craze",
+      "githubUrl": "https://github.com/umaima-zafar/Space-Craze",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/5431ed8f-fe54-44d7-85bd-4028e23bc848.png",
+      "teamMembers": [
+        "Umaima Z.",
+        "fazila R."
+      ],
+      "voteCount": 1
+    },
+    {
+      "id": "1eab37a8-dbef-4f0e-858b-5584ec4174c4",
+      "gameName": "shieldxmonster",
+      "gameDescription": "a game where a ninja fight against a monster while being protected by a shield ( press enter key) to collect a diamond",
+      "gameUrl": "https://mariya5608.itch.io/shieldxmonster",
+      "githubUrl": "https://github.com/mariya5608/shieldxmonster",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/35db1292-68f6-4ba8-b952-2f7355f5a521.png",
+      "teamMembers": [
+        "Dameesha B.",
+        "Mariya B."
+      ],
+      "voteCount": 1
+    },
+    {
+      "id": "5c482e15-935e-42c6-bee5-30ce2d359921",
+      "gameName": "zombie",
+      "gameDescription": "chase the zombie",
+      "gameUrl": "https://umaima-2009.itch.io/zombie",
+      "githubUrl": "https://github.com/umaimajamal2009-beep/zombie",
+      "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-karachi/93927acd-48c7-44d6-8b5b-b946fb62c7c6.png",
+      "teamMembers": [
+        "Umaima J."
+      ],
+      "voteCount": 0
+    }
+  ],
+  "event": {
+    "slug": "karachi",
+    "attendees": 32,
+    "shippers": 21,
+    "games": 12
+  }
+}
